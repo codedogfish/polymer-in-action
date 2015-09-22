@@ -1,0 +1,20 @@
+{
+  "name": "polymer-in-action",
+  "version": "0.0.0",
+  "homepage": "https://github.com/codedogfish/polymer-in-action",
+  "authors": [
+    "codedogfish <jackcool1989@outlook.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "iron-elements": "PolymerElements/iron-elements#~1.0.3",
+    "polymer": "Polymer/polymer#~1.1.3"
+  }
+}
